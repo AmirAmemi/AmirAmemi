@@ -6,7 +6,7 @@ Hi, I'm Amemi Amir, a Data Scientist . With a Master’s degree in Data Science 
 
 💞️ I’m looking to collaborate on: Projects that utilize data-driven decision making to enhance business processes, healthcare innovations, and other areas where data science can create significant impact.
 
-📫 How to reach me: Connect with me on LinkedIn or send me an email at amiramemig@gmail.com.
+📫 How to reach me: Connect with me on LinkedIn or send me an email at amir@amemi.de.
 
 <!--
 **AmirAmemi/AmirAmemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
