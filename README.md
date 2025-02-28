@@ -1,4 +1,4 @@
-Hi, I'm Amemi Amir, a Data Scientist . With a Master’s degree in Data Science and a Bachelor's degree in Applied Mathematics, I specialize in Data engineering, machine learning and artificial intelligence. My academic and professional journey has endowed me with profound expertise in Python, R, SQL, and several other programming and data analysis tools. I am passionate about leveraging this knowledge to drive innovations and contribute to groundbreaking projects in data science.
+Hi, I'm Amemi Amir, a Data Engineer / Data Scientist . With a Master’s degree in Data Science and a Bachelor's degree in Applied Mathematics, I specialize in Data engineering, machine learning and artificial intelligence. My academic and professional journey has endowed me with profound expertise in Python, R, SQL, and several other programming and data analysis tools. I am passionate about leveraging this knowledge to drive innovations and contribute to groundbreaking projects in data science.
 
 👀 I’m interested in: Harnessing big data for actionable insights, Data Engineering, and optimizing artificial intelligence applications to solve real-world problems.
 
